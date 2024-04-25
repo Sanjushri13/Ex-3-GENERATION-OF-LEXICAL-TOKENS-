@@ -17,6 +17,7 @@ To write a C program to implement lexical analyzer to recognize a few patterns.
   	
 5)	Stop the program.
 
+
 # PROGRAM
 ```
 #include<stdio.h>
