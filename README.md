@@ -16,6 +16,7 @@ To write a C program to implement lexical analyzer to recognize a few patterns.
     c.	If the next character of the symbol is a bracket, then print it as parenthesis.
   	
 5)	Stop the program.
+
 # PROGRAM
 ```
 #include<stdio.h>
