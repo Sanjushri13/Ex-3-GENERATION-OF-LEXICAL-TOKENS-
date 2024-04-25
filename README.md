@@ -3,7 +3,7 @@
 # Ex-3 GENERATION OF LEXICAL TOKENS USING C
 # Date:23.02.2024
 # AIM
-    To write a C program to implement lexical analyzer to recognize a few patterns.
+To write a C program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
 1)	Start the program.
 2)	Get the input from the user with the terminating symbol ‘;’.
@@ -169,4 +169,4 @@ int main() {
 ![image](https://github.com/Sanjushri13/Ex-3-GENERATION-OF-LEXICAL-TOKENS-/assets/164732231/db1429d7-4090-40e4-81ae-c1517232a2cc)
 
 # RESULT
-     The program to implement lexical analyzer is executed and the output is verified.
+The program to implement lexical analyzer is executed and the output is verified.
